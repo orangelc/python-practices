@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 #Declaramos las variables
-word="Milliways"
+word = input("Provide a word to search for vowels: ")
 vowels = ['a','e','i','o','u']
 found = []
 
